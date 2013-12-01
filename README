@@ -1,0 +1,8 @@
+ZeroPoint
+=========
+
+Calibration code to find the zero point of a given La-Silla QUEST Target with Sloan Digital Sky Survey. Requires local copy of LSQ database as well as an updated DR7 access to SDSS.
+
+Author: Benjamin Horowitz (Yale '14) benjamin.a.horowitz@yale.edu
+
+Based on original code by Lissa Miller.
